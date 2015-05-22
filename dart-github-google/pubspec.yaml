@@ -11,4 +11,4 @@ environment:
 #  lib_name: any
 dev_dependencies:
 # change this to a specific version range when you create your project
-  unittest: any
+  test: any
