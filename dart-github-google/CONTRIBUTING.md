@@ -24,7 +24,7 @@ use Github pull requests for this purpose.
 ### File headers
 All files in the project must start with the following header.
 
-    // Copyright (c) 2015, Google Inc. Please see the AUTHORS file for details.
+    // Copyright (c) 2017, Google Inc. Please see the AUTHORS file for details.
     // All rights reserved. Use of this source code is governed by a BSD-style
     // license that can be found in the LICENSE file.
 
