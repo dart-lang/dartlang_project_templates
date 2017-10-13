@@ -1,8 +1,9 @@
 language: dart
 
-# Speed up builds by using containerization. Disable this if you need to use
-# sudo in your scripts.
-sudo: false
+# By default, builds are run in containers.
+# https://docs.travis-ci.com/user/getting-started/#Selecting-infrastructure-(optional)
+# Set `sudo: true` to disable containers if you need to use sudo in your scripts.
+# sudo: true
 
 dart:
 - dev
