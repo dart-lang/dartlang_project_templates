@@ -13,5 +13,9 @@ Please update the various repo files before the first commit:
 `pubspec.yaml`:
 - update the name, description, and repository fields
 
+`.github/workflows/dart.yaml`
+- confirm that the GitHub actions config file points to the correct main branch for
+  your repo (either `main` or `master`)
+
 `README.md`:
 - scrub the file of general template content (including this section)
