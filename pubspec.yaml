@@ -1,5 +1,7 @@
 name: dartlang_project_templates
-version: 0.1.0
+# If you plan to publish this package, set the version field
+# version: 0.1.0
+publish_to: none
 description: A sample library.
 repository: https://github.com/dart-lang/dartlang_project_templates
 
