@@ -1,5 +1,5 @@
 name: dartlang_project_templates
-# If intended for publishing, replace `publish_to: none` with `version:0.0.1`
+# If intended for publishing, replace `publish_to: none` with `version: 0.0.1`
 publish_to: none
 description: A sample library.
 repository: https://github.com/dart-lang/dartlang_project_templates
